@@ -1,0 +1,18 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="de">locale/eros_de.qm</file>
+        <file alias="en">locale/eros_en.qm</file>
+        <file alias="en_US">locale/eros_en_US.qm</file>
+        <file alias="es">locale/eros_es.qm</file>
+        <file alias="es_ES">locale/eros_es_ES.qm</file>
+        <file alias="fr_FR">locale/eros_fr_FR.qm</file>
+        <file alias="hr_HR">locale/eros_hr_HR.qm</file>
+        <file alias="it">locale/eros_it.qm</file>
+        <file alias="ko_KR">locale/eros_ko_KR.qm</file>
+        <file alias="nl">locale/eros_nl.qm</file>
+        <file alias="pl">locale/eros_pl.qm</file>
+        <file alias="ru">locale/eros_ru.qm</file>
+        <file alias="tr">locale/eros_tr.qm</file>
+        <file alias="zh_CN">locale/eros_zh_CN.qm</file>
+    </qresource>
+</RCC>

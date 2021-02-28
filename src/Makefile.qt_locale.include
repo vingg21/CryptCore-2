@@ -1,0 +1,15 @@
+QT_TS = \
+  qt/locale/eros_de.ts \
+  qt/locale/eros_en.ts \
+  qt/locale/eros_en_US.ts \
+  qt/locale/eros_es.ts \
+  qt/locale/eros_es_ES.ts \
+  qt/locale/eros_fr_FR.ts \
+  qt/locale/eros_hr_HR.ts \
+  qt/locale/eros_it.ts \
+  qt/locale/eros_ko_KR.ts \
+  qt/locale/eros_nl.ts \
+  qt/locale/eros_pl.ts \
+  qt/locale/eros_ru.ts \
+  qt/locale/eros_tr.ts \
+  qt/locale/eros_zh_CN.ts
